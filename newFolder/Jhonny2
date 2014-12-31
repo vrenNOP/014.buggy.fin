@@ -1,0 +1,28 @@
+<!doctype html><head></head>
+
+<body>
+
+This things called @sGit.
+Hey it works for editing.. Inside application.
+
+[ctrl+s] does nothing. Thankfully.
+Matches brackets when typing with color.
+File made with no suffixing filetype. 
+Will next: 
+Add filetype to view syntax highlights in edit mode?
+Open to edit with local application.
+Need to import in previously made files into repository.
+See if it all syncs into remote github.
+
+File retains edit-status switching out into other @android windows.
+Autosaves at same time. Goodie.
+[Shift+arrow] works. [Ctrl+Shift+arrow] does not. (Highlighting letter vs. words).
+Needs to toggle from icon into Edit mode.
+Going back into repository automatically saves changes.
+
+Opened with @TURBO, wondering what sort of file this is by default with such odd syntax highlighting..
+Swapped back into @sGit with changes saved. Nice.
+~ @turbo: your stupid and annoying #bug with capitals/insert toggling is #workaround, wait a few seconds for caret to return to normal. Hmm.
+
+
+</body>
