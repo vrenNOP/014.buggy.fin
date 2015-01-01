@@ -74,14 +74,3 @@ Final statement:<xmp>#n>li,li {margin-left:-7%;}</xmp>
 <pre> Trialed a few [white-space] attributes. With or without TY(http://www.w3schools.com/cssref/pr_text_white-space.asp). 
 Result: Not using any of it. Just related DOM-element back to single line. (It was inside a pre, therefore the/an attribute was already being applied).
 Verdict: Back to simple [margin:0] afterall..
-
-</OL>
-
-<h2> See what happened here? @android #default editor kept throwing up save errors and then after shutting it down and skipping back into @sGit, it reloaded the file but cutting off almost half of the content. Heavens.
-<h1>Bitch.</h1>
-</h2>
-<pre> So back we are to re-add the silly little stuff. There's a few thousand commits lost but oh well. Alot of tinkering notes gone but at least so are the applications. Leaving the jet plane because ooh, that really hurt the productivity gland. (Lie. We're not too productive tonight).
-
-Happy New Years
-~ @droidedit, your ads overlap content.
-</pre>
